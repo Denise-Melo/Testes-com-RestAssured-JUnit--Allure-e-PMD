@@ -10,7 +10,7 @@ Note que as configurações na build é extremamente necessária, sem isso não 
 * Após dar o clean, deverá aparecer no console BUILD SUCCESS
 * Depois clique na opção maven goal > maven test para rodar os testes, no caso do projeto aparecerá: 
 
-![maven-test](URL da imagem)
+![maven-test](https://github.com/Denise-Melo/testes-RestAssured--JUnit-/blob/main/imagens-allure/imagem-do-console-apos-rodar-maven-test.png)
 
 * Depois maven > plugins > Allure > Allure:report para gerar na pasta target a pasta Allure-results
 * Com a execução deverá aparecer no console:
