@@ -24,7 +24,7 @@ Note que as configurações na build é extremamente necessária, sem isso não 
 * Para acessar o site do Allure com o report completo em uma interface amigável execute maven >  plugins > allure > allure:serve
 * Abrirá automáticamente uma janela com o site devendo conter as seguintes imagens:
 
-![site-Allure-reports](URL da imagem)
+![site-Allure-reports](https://github.com/Denise-Melo/testes-RestAssured--JUnit-/blob/main/imagens-allure/Captura%20de%20tela%20de%202023-01-17%2013-50-38.png)
 
 ![site-Allure-reports](https://github.com/Denise-Melo/testes-RestAssured--JUnit-/blob/main/imagens-allure/Captura%20de%20tela%20de%202023-01-17%2013-51-59.png)
 
