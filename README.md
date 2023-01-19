@@ -1,9 +1,11 @@
 # Testes com RestAssured, JUnit e reports com Allure
+
 Este projeto teve como finalidade explorar a framework RestAssured e JUnit. 
 Entretanto, como forma de consolidar os conhecimentos dados, foi dado ênfase maior na geração de reports com o Allure Framework. 
-### Como acessar os relatórios com Allure:
+
+### Como criar os relatórios com Allure:
 * Após dar o fork no projeto, com a IDE de sua escolha acesse o pom.xml, neste projeto seguiremos o passo a passo pelo Intellij.
-Note que as configurações na build é extremamente necessária, sem isso não será possivel criar os reports.
+  Note que as configurações na build é extremamente necessária, sem isso não será possivel criar os reports.
 * Depois no canto superior direito do intellij procure pela aba maven
 * Ao clicá-la aparecerá todas as opções do maven
 * Clique em maven goal > **maven clean**
