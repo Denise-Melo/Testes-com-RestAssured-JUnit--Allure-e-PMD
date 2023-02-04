@@ -1,7 +1,5 @@
 package Entities;
 
-import java.util.Scanner;
-
 public class User {
     private String username;
     private String firstName;

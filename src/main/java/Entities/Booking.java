@@ -1,5 +1,6 @@
 package Entities;
 
+import java.util.Date;
 
 public class Booking {
     private String lastname;
@@ -8,6 +9,7 @@ public class Booking {
     private boolean depositpaid;
     private BookingDates bookingdates;
     private String additionalneeds;
+
 
     public Booking(String firstName, String lastName, float totalPrice, boolean depositPaid, BookingDates bookingDates, String additionalNeeds) {
         this.firstname = firstName;
