@@ -4,7 +4,7 @@ Este projeto teve como finalidade explorar a framework RestAssured e JUnit.
 Entretanto, como forma de consolidar os conhecimentos dados, foi dado ênfase maior na geração de reports com o Allure Framework. Também, procurei explorar o conceito dos testes estáticos com o uso do PMD.
 
 ### PMD
-![](https://github.com/Denise-Melo/Testes-com-RestAssured-JUnit-e-Allure/blob/main/teste-estatico-pmd/pmd.png)
+<img src = "https://github.com/Denise-Melo/Testes-com-RestAssured-JUnit-e-Allure/blob/main/teste-estatico-pmd/pmd.png" width="800px" height= "400px">
 
 ### Como criar os relatórios com Allure:
 * Após dar o fork no projeto, com a IDE de sua escolha acesse o pom.xml, neste projeto seguiremos o passo a passo pelo Intellij.
